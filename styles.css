@@ -1,0 +1,24 @@
+html,body{
+    font-family:'Times New Roman', Times, serif;
+    color: #fa2c7f;
+    background: url(BackgroundImg.jpeg) no-repeat center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+hr{
+    background-color: #f3e9ed;
+    border-color: peru;
+    height: 2px;
+}
+
+.buffer{
+    height: 10rem;
+}
+
+
+.btn{
+    border-radius: 300px;
+
+}
